@@ -111,7 +111,7 @@ function plugin_version_uninstall() {
       'name'           => __("Item's Lifecycle (uninstall)", 'uninstall'),
       'author'         => 'Walid Nouh, François Legastelois, Remi Collet',
       'license'        => "GPLv2+",
-      'homepage'       => 'https://github.com/pluginsGLPI/uninstall',
+      'homepage'       => 'https://github.com/itsmng/uninstall',
       'version'        => PLUGIN_UNINSTALL_VERSION,
       'license'        => 'GPLv2+',
       'requirements'   => [
